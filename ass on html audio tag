@@ -3,7 +3,7 @@
     <head>
     <meta charset="UTF-8">
 </head>
-    <audio src="Ejika _ Naijaloaded.com.ng.mp3" controls preload="metadata" autoplay loop></audio><audio src="Audio_Screenshot_Preview.jpg">
-    </audio>
+<body>
+    <audio src="Ejika _ Naijaloaded.com.ng.mp3" controls autoplay loop preload="metadata" img src="Shoot.ng.png" height="200px" width=" 300px"></audio>
 </body>
 </html>
